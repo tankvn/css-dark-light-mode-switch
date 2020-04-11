@@ -56,8 +56,9 @@ document.documentElement.className = 'theme-dark';
 
 -----
 ### [Create A Dark/Light Mode Switch with CSS Variables | dev.to](https://dev.to/ananyaneogi/create-a-dark-light-mode-switch-with-css-variables-34l8)
-https://codepen.io/ananyaneogi/pen/zXZyMP
-https://ananyaneogi.com/
+https://codepen.io/ananyaneogi/pen/zXZyMP  
+https://ananyaneogi.com/  
+
 ```html
 <html data-theme="dark">
 ```
