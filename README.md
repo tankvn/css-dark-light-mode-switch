@@ -49,7 +49,25 @@ https://codepen.io/ananyaneogi/pen/zXZyMP
 ```html
 <html data-theme="dark">
 ```
-
+```css
+:root {
+    --primary-color: #302AE6;
+    --secondary-color: #536390;
+    --bg-color: #fff;
+}
+[data-theme="dark"] {
+    --primary-color: #9A97F3;
+    --secondary-color: #818cab;
+    --bg-color: #161625;
+}
+body {
+    background-color: var(--bg-color);
+}
+```
+```javascript
+localStorage.setItem('theme', 'theme-dark');
+document.documentElement.setAttribute('data-theme', 'dark');
+```
 
 -----
 **Dark/Light Mode Switcher**  
