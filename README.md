@@ -3,7 +3,9 @@ How to create a Dark/Light mode switch in CSS
 
 ## English
 **How To - Toggle Dark Mode**  
-`<body class="dark-mode">`  
+```html
+<body class="dark-mode">
+```
 https://www.w3schools.com/howto/howto_js_toggle_dark_mode.asp  
 
 **Create A Dark/Light Mode Switch with CSS Variables**  
@@ -14,7 +16,7 @@ https://dev.to/ananyaneogi/create-a-dark-light-mode-switch-with-css-variables-34
 https://css-tricks.com/dark-modes-with-css/
 
 **How to create a dark\light mode switch in CSS and Javascript**  
-{% highlight js %}
+```css
 :root {
   --color-bg: #ffffff;
 }
@@ -24,8 +26,10 @@ https://css-tricks.com/dark-modes-with-css/
 body {
   background-color: var(--color-bg);
 }
-{% endhighlight %}
-`<body data-theme="dark">`  
+```
+```html
+<body data-theme="dark">
+```
 https://codyhouse.co/blog/post/dark-light-switch-css-javascript
 
 **Dark and Light theme switcher using CSS variables and pure JavaScript**  
