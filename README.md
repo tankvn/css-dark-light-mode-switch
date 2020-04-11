@@ -38,7 +38,7 @@ body {
 ```
 
 -----
-**Dark/Light Mode Switcher**
+**Dark/Light Mode Switcher**  
 https://codepen.io/HarlemSquirrel/pen/NdMebZ
 
 
