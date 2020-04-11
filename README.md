@@ -1,6 +1,6 @@
 # English
 
-### How To - Toggle Dark Mode
+### [How To - Toggle Dark Mode](https://www.w3schools.com/howto/howto_js_toggle_dark_mode.asp)
 https://www.w3schools.com/howto/howto_js_toggle_dark_mode.asp
 ```html
 <body class="dark-mode">
