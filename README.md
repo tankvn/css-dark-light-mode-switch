@@ -1,7 +1,4 @@
-# css-dark-light-mode-switch
-How to create a Dark/Light mode switch in CSS
-
-# English
+### English
 
 ### How To - Toggle Dark Mode
 https://www.w3schools.com/howto/howto_js_toggle_dark_mode.asp
