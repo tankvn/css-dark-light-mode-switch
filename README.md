@@ -1,8 +1,17 @@
 # English
 
 ### [How To - Toggle Dark Mode | W3schools](https://www.w3schools.com/howto/howto_js_toggle_dark_mode.asp)
+Body Class: Change the class for the `<body>` to override the CSS for each theme
 ```html
 <body class="dark-mode">
+```
+```css
+body {
+  background-color: white;
+}
+body.dark-mode {
+  background-color: black;
+}
 ```
 
 
@@ -15,6 +24,7 @@
 
 -----
 ### [How to create a dark\light mode switch in CSS and Javascript | Codyhouse](https://codyhouse.co/blog/post/dark-light-switch-css-javascript)
+CSS Variables + Body data attribute
 ```css
 :root {
   --color-bg: #ffffff;
@@ -33,7 +43,8 @@ body {
 
 -----
 ### [Dark and Light theme switcher using CSS variables and pure JavaScript | Medium](https://medium.com/@haxzie/dark-and-light-theme-switcher-using-css-variables-and-pure-javascript-zocada-dd0059d72fa2)
-https://codepen.io/haxzie/pen/xxKNEGM
+https://codepen.io/haxzie/pen/xxKNEGM  
+CSS Variables + `<Html>` Class
 ```html
 <html class="theme-dark">
 ```
@@ -45,8 +56,9 @@ document.documentElement.className = 'theme-dark';
 
 -----
 ### [Create A Dark/Light Mode Switch with CSS Variables | dev.to](https://dev.to/ananyaneogi/create-a-dark-light-mode-switch-with-css-variables-34l8)
-https://codepen.io/ananyaneogi/pen/zXZyMP
-https://ananyaneogi.com/
+https://codepen.io/ananyaneogi/pen/zXZyMP  
+https://ananyaneogi.com/  
+
 ```html
 <html data-theme="dark">
 ```
