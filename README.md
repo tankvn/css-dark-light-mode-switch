@@ -17,7 +17,7 @@ https://css-tricks.com/dark-modes-with-css/
 `<body data-theme="dark">`  
 https://codyhouse.co/blog/post/dark-light-switch-css-javascript
 
-**Dark and Light theme switcher using CSS variables and pure JavaScript** 
+**Dark and Light theme switcher using CSS variables and pure JavaScript**  
 `<html class="theme-dark">`  
 https://medium.com/@haxzie/dark-and-light-theme-switcher-using-css-variables-and-pure-javascript-zocada-dd0059d72fa2
 
