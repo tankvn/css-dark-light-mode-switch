@@ -1,7 +1,7 @@
 # English
 
 ### [How To - Toggle Dark Mode | W3schools](https://www.w3schools.com/howto/howto_js_toggle_dark_mode.asp)
-Change the class for the `body` to override the CSS for each theme
+Body Class: Change the class for the `body` to override the CSS for each theme
 ```html
 <body class="dark-mode">
 ```
@@ -24,6 +24,7 @@ body.dark-mode {
 
 -----
 ### [How to create a dark\light mode switch in CSS and Javascript | Codyhouse](https://codyhouse.co/blog/post/dark-light-switch-css-javascript)
+CSS Variables + Body data attribute
 ```css
 :root {
   --color-bg: #ffffff;
