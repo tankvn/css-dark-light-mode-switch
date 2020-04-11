@@ -1,8 +1,17 @@
 # English
 
 ### [How To - Toggle Dark Mode | W3schools](https://www.w3schools.com/howto/howto_js_toggle_dark_mode.asp)
+Change the class for the `body` to override the CSS for each theme
 ```html
 <body class="dark-mode">
+```
+```css
+body {
+  background-color: white;
+}
+body.dark-mode {
+  background-color: black;
+}
 ```
 
 
