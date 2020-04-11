@@ -1,21 +1,21 @@
 # English
 
-### [How To - Toggle Dark Mode](https://www.w3schools.com/howto/howto_js_toggle_dark_mode.asp)
+### [How To - Toggle Dark Mode | W3schools](https://www.w3schools.com/howto/howto_js_toggle_dark_mode.asp)
 ```html
 <body class="dark-mode">
 ```
 
 -----
-### [Create A Dark/Light Mode Switch with CSS Variables](https://dev.to/ananyaneogi/create-a-dark-light-mode-switch-with-css-variables-34l8)
+### [Create A Dark/Light Mode Switch with CSS Variables | dev.to](https://dev.to/ananyaneogi/create-a-dark-light-mode-switch-with-css-variables-34l8)
 
 -----
-### [Dark Mode in CSS](https://css-tricks.com/dark-modes-with-css/)
+### [Dark Mode in CSS | Css-tricks](https://css-tricks.com/dark-modes-with-css/)
 ```css
 @media (prefers-color-scheme: dark) {
 ```
 
 -----
-### [How to create a dark\light mode switch in CSS and Javascript](https://codyhouse.co/blog/post/dark-light-switch-css-javascript)
+### [How to create a dark\light mode switch in CSS and Javascript | Codyhouse](https://codyhouse.co/blog/post/dark-light-switch-css-javascript)
 ```css
 :root {
   --color-bg: #ffffff;
@@ -32,7 +32,7 @@ body {
 ```
 
 -----
-### [Dark and Light theme switcher using CSS variables and pure JavaScript](https://medium.com/@haxzie/dark-and-light-theme-switcher-using-css-variables-and-pure-javascript-zocada-dd0059d72fa2)
+### [Dark and Light theme switcher using CSS variables and pure JavaScript | Medium](https://medium.com/@haxzie/dark-and-light-theme-switcher-using-css-variables-and-pure-javascript-zocada-dd0059d72fa2)
 ```html
 <html class="theme-dark">
 ```
