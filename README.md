@@ -5,14 +5,13 @@
 <body class="dark-mode">
 ```
 
------
-### [Create A Dark/Light Mode Switch with CSS Variables | dev.to](https://dev.to/ananyaneogi/create-a-dark-light-mode-switch-with-css-variables-34l8)
 
 -----
 ### [Dark Mode in CSS | Css-tricks](https://css-tricks.com/dark-modes-with-css/)
 ```css
 @media (prefers-color-scheme: dark) {
 ```
+
 
 -----
 ### [How to create a dark\light mode switch in CSS and Javascript | Codyhouse](https://codyhouse.co/blog/post/dark-light-switch-css-javascript)
@@ -31,6 +30,7 @@ body {
 <body data-theme="dark">
 ```
 
+
 -----
 ### [Dark and Light theme switcher using CSS variables and pure JavaScript | Medium](https://medium.com/@haxzie/dark-and-light-theme-switcher-using-css-variables-and-pure-javascript-zocada-dd0059d72fa2)
 https://codepen.io/haxzie/pen/xxKNEGM
@@ -42,9 +42,19 @@ localStorage.setItem('theme', 'theme-dark');
 document.documentElement.className = 'theme-dark';
 ```
 
+
+-----
+### [Create A Dark/Light Mode Switch with CSS Variables | dev.to](https://dev.to/ananyaneogi/create-a-dark-light-mode-switch-with-css-variables-34l8)
+https://codepen.io/ananyaneogi/pen/zXZyMP
+```html
+<html data-theme="dark">
+```
+
+
 -----
 **Dark/Light Mode Switcher**  
 https://codepen.io/HarlemSquirrel/pen/NdMebZ
+
 
 
 # Vietnamese
