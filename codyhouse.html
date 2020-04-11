@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+:root {
+  --color-bg: #ffffff;
+  --color-txt: black;
+}
+
+[data-theme="dark"] {
+  --color-bg: #000000;
+  --color-txt: white;
+}
+
+body {
+  background-color: var(--color-bg);
+  color: var(--color-txt);
+  padding: 25px;
+  font-size: 25px;
+}
+</style>
+</head>
+<body data-theme="default">
+
+<h2>Toggle Dark/Light Mode</h2>
+<p>Click the button to toggle between dark and light mode for this page.</p>
+
+<button onclick="myFunction()">Toggle dark mode</button>
+
+<script>
+function myFunction() {
+  var element = document.body;
+  var theme = element.dataset.theme
+  switch (theme) {
+    
+    case 'dark':
+      element.dataset.theme = "default";
+      break;
+    case 'light':
+    case 'default':
+    default :
+      element.dataset.theme = "dark";
+  }
+}
+</script>
+
+</body>
+</html>
