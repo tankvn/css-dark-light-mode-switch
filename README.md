@@ -25,3 +25,8 @@ https://codepen.io/HarlemSquirrel/pen/NdMebZ
 Tạo Dark Theme với CSS Variable  
 https://completejavascript.com/tao-dark-theme-voi-css-variable
 
+Hướng dẫn làm giao diện Dark mode cho website từ A-Z  
+https://evondev.com/huong-dan-lam-giao-dien-dark-mode-cho-website-tu-a-z/
+
+Ứng dụng CSS variables để xây dựng tính năng dark theme  
+https://12bit.vn/articles/ung-dung-css-variables-de-xay-dung-dark-theme/
